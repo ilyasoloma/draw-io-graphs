@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Страница — 1" id="jk7Gp_ShFf1EGiZC76RD">
-    <mxGraphModel dx="2514" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="40" width="470" height="220" as="geometry" />
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-32" value="" style="group;strokeWidth=4;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="209" width="470" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=3;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
           <mxGeometry width="470" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Наземная инфраструктура&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
@@ -19,11 +19,11 @@
         <mxCell id="Gya7H7WJJC5GkP-YN24k-18" value="Наземные комплексы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
           <mxGeometry x="20" y="150" width="130" height="39.29" as="geometry" />
         </mxCell>
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Gya7H7WJJC5GkP-YN24k-32" source="Gya7H7WJJC5GkP-YN24k-19" target="Gya7H7WJJC5GkP-YN24k-23">
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Gya7H7WJJC5GkP-YN24k-32" source="Gya7H7WJJC5GkP-YN24k-19" target="Gya7H7WJJC5GkP-YN24k-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-19" value="Инфраструктура интернет-шлюзов и наземная сеть КС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
-          <mxGeometry x="176.25" y="30" width="132.5" height="39.29" as="geometry" />
+          <mxGeometry x="165.63" y="30.71" width="153.75" height="49.29" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-23" value="Абонентские станции и терминалы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
           <mxGeometry x="332.5" y="79.99857142857142" width="130" height="39.28571428571429" as="geometry" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-135" value="Система мониторинга и обработки данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-32">
-          <mxGeometry x="20" y="62.85" width="130" height="39.29" as="geometry" />
+          <mxGeometry x="20" y="79.99" width="130" height="39.29" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-137" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Gya7H7WJJC5GkP-YN24k-32" source="Gya7H7WJJC5GkP-YN24k-135" target="Gya7H7WJJC5GkP-YN24k-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,16 +75,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-130" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-50" y="310" width="810" height="300" as="geometry" />
+          <mxGeometry x="9" y="470" width="810" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-67" value="" style="group" vertex="1" connectable="0" parent="Gya7H7WJJC5GkP-YN24k-130">
           <mxGeometry width="810" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-67">
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=3;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-67">
           <mxGeometry width="810" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Программное и сетевое обеспечение&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-67">
-          <mxGeometry x="548.4118541033434" y="0.00428571428574287" width="261.5881458966565" height="32.14285714285714" as="geometry" />
+          <mxGeometry x="511.0018541033435" y="0.00428571428574287" width="261.5881458966565" height="32.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-80" value="" style="group" vertex="1" connectable="0" parent="Gya7H7WJJC5GkP-YN24k-130">
           <mxGeometry x="20" y="30" width="160" height="220" as="geometry" />
@@ -183,8 +183,8 @@
             <mxPoint x="70" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-143" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-180" y="50" width="465" height="210" as="geometry" />
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-143" value="" style="group;strokeWidth=4;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-67" y="209" width="465" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-4" value="Полезная нагрузка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
           <mxGeometry x="15" y="94.64571428571429" width="120" height="40.714285714285715" as="geometry" />
@@ -231,14 +231,26 @@
         <mxCell id="Gya7H7WJJC5GkP-YN24k-132" value="Механизм ретрансляции данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
           <mxGeometry x="335" y="20" width="120" height="50.72" as="geometry" />
         </mxCell>
-        <mxCell id="Gya7H7WJJC5GkP-YN24k-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
-          <mxGeometry width="465" height="210" as="geometry" />
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 1;strokeWidth=3;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
+          <mxGeometry width="465" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF441F;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
           <mxGeometry x="5" y="42.50999999999999" width="150" height="105.71" as="geometry" />
         </mxCell>
         <mxCell id="Gya7H7WJJC5GkP-YN24k-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Орбитальная группировка спутников&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="Gya7H7WJJC5GkP-YN24k-143">
           <mxGeometry x="141" y="9.000000000000007" width="170" height="20.357142857142858" as="geometry" />
+        </mxCell>
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;shape=flexArrow;" edge="1" parent="1" source="Gya7H7WJJC5GkP-YN24k-144" target="Gya7H7WJJC5GkP-YN24k-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Gya7H7WJJC5GkP-YN24k-144" target="Gya7H7WJJC5GkP-YN24k-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Gya7H7WJJC5GkP-YN24k-144" target="Gya7H7WJJC5GkP-YN24k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gya7H7WJJC5GkP-YN24k-144" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;КСС&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

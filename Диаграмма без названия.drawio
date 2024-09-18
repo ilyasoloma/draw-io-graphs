@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Страница — 1" id="jk7Gp_ShFf1EGiZC76RD">
-    <mxGraphModel dx="2620" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2174" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,6 +578,17 @@
         </mxCell>
         <mxCell id="oT39nbBuMpAFQhDl_KzM-33" value="Наземная сеть КС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oT39nbBuMpAFQhDl_KzM-35">
           <mxGeometry x="403.25" y="120" width="153.75" height="49.29" as="geometry" />
+        </mxCell>
+        <mxCell id="oT39nbBuMpAFQhDl_KzM-36" value="Система мониторинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oT39nbBuMpAFQhDl_KzM-35">
+          <mxGeometry x="51" y="120" width="153.75" height="49.29" as="geometry" />
+        </mxCell>
+        <mxCell id="oT39nbBuMpAFQhDl_KzM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.633;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="oT39nbBuMpAFQhDl_KzM-35" source="mWvDDhN56M6IgN8WE3Ld-3" target="oT39nbBuMpAFQhDl_KzM-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="39" />
+              <mxPoint x="148" y="39" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
